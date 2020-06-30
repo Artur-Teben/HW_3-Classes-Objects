@@ -25,6 +25,5 @@ public class Main {
         firstCar.setSpeed(300);
         firstCar.setSpeed(120);
         firstCar.stopEngine();
-
     }
 }
