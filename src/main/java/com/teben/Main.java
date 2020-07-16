@@ -12,10 +12,10 @@ public class Main {
         Circle circle = new Circle(RADIUS);
         System.out.println(circle);
 
-        ObjectCount object1 = new ObjectCount();
-        ObjectCount object2 = new ObjectCount();
-        ObjectCount object3 = new ObjectCount();
-        ObjectCount object4 = new ObjectCount();
+        new ObjectCount();
+        new ObjectCount();
+        new ObjectCount();
+        new ObjectCount();
 
         System.out.println("Number of created objects = " + ObjectCount.getCount());
 
@@ -27,3 +27,4 @@ public class Main {
         firstCar.stopEngine();
     }
 }
+        
