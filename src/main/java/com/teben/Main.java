@@ -1,5 +1,7 @@
 package main.java.com.teben;
-
+// Author: Artur Teben
+// Date: July 16 2020
+// E-mail: teben.artur99@gmail.com
 import main.java.com.teben.circle.Circle;
 import main.java.com.teben.count.ObjectCount;
 import main.java.com.teben.car.Car;
